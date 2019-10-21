@@ -63,7 +63,7 @@ six==1.9.0
 sklearn==0.0
 suds-jurko==0.6
 sympy==1.1.1
-urllib3==1.22
+urllib3==1.24.2
 win-inet-pton==1.0.1
 xlsxwriter==1.0.2
 xmltodict==0.11.0
